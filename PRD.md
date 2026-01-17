@@ -8,4 +8,4 @@ A simple demo project to showcase Ralphy's autonomous AI coding capabilities.
 - [x] Create an index.js file with a function that returns "Hello from Ralphy!" and exports it
 - [x] Create a utils.js file with a function that formats the current date as "YYYY-MM-DD" and exports it
 - [x] Create a main.js file that imports both modules and prints their outputs to the console
-- [ ] Add a README.md documenting the project with usage instructions
+- [x] Add a README.md documenting the project with usage instructions

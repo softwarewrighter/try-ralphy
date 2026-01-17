@@ -32,3 +32,15 @@
 - All tests pass (16/16 total)
 - Linting passes
 - Status: COMPLETE
+
+## Task 5: Add README.md documenting the project with usage instructions
+- Created README.md with project title and description
+- Added Installation section with npm install instructions
+- Added Usage section with npm start instructions and example output
+- Added API section documenting greet() and formatDate() functions
+- Added Scripts section listing available npm commands
+- Added License section mentioning MIT license
+- Created readme.test.js with 7 tests for README content
+- All tests pass (23/23 total)
+- Linting passes
+- Status: COMPLETE
