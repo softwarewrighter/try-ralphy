@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple demo project to showcase Ralphy's autonomous AI coding capabilities",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "demo",
+    "hello-world",
+    "ralphy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
