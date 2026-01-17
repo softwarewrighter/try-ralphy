@@ -23,3 +23,12 @@
 - All tests pass (12/12 total)
 - Linting passes
 - Status: COMPLETE
+
+## Task 4: Create main.js that imports both modules and prints outputs
+- Created main.js that imports greet from index.js and formatDate from utils.js
+- main() function calls console.log for both greet() and formatDate()
+- main() is called on module load and exported for testing
+- Created main.test.js with 4 tests for the main function
+- All tests pass (16/16 total)
+- Linting passes
+- Status: COMPLETE
