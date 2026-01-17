@@ -6,3 +6,11 @@
 - All tests pass (4/4)
 - Linting passes
 - Status: COMPLETE
+
+## Task 2: Create index.js with greeting function
+- Created index.js with greet() function that returns "Hello from Ralphy!"
+- Function is exported using CommonJS module.exports
+- Created index.test.js with 3 tests for the greet function
+- All tests pass (7/7 total)
+- Linting passes
+- Status: COMPLETE
