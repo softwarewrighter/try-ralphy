@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Ralphy (cloned separately)
+ralphy/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Claude Code
+.claude/
+
+# Transcripts (optional - keep for reference)
+# transcript.txt
+
+# Parallel demo (created dynamically by setup.sh)
+parallel-demo/subject-repo/
+
+# Demo video files (too large for git)
+demo/ralphy-demo.mp4
+demo/stills/
+parallel-demo/demo/parallel-demo.mp4
