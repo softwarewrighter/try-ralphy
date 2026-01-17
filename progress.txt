@@ -14,3 +14,12 @@
 - All tests pass (7/7 total)
 - Linting passes
 - Status: COMPLETE
+
+## Task 3: Create utils.js with date formatting function
+- Created utils.js with formatDate() function that returns current date as "YYYY-MM-DD"
+- Function uses padStart to ensure month and day are zero-padded
+- Function is exported using CommonJS module.exports
+- Created utils.test.js with 5 tests for the formatDate function
+- All tests pass (12/12 total)
+- Linting passes
+- Status: COMPLETE
