@@ -10,6 +10,16 @@ Ralphy is a bash script that enables AI assistants (Claude Code, OpenCode, Codex
 - [Ralphy GitHub Repository](https://github.com/michaelshimeles/ralphy)
 - [Introduction Video](https://www.youtube.com/watch?v=J2thowAjPM0)
 
+## Video Playlist
+
+Check out the [Claude Ralph plugin and related tech](https://www.youtube.com/playlist?list=PLKjvVAEaR4itHPQIZ6ZjWdnrC-Zn6k0I9) YouTube playlist:
+
+[![What If Your AI Never Gave Up?](images/thumbnail1.png)](https://www.youtube.com/watch?v=grTC-Zj0LC4)
+**[What If Your AI Never Gave Up?](https://www.youtube.com/watch?v=grTC-Zj0LC4)**
+
+[![Parallel AI Coding - with Git Worktrees](images/thumbnail2.png)](https://www.youtube.com/watch?v=OGV-ZilSGcw)
+**[Parallel AI Coding - with Git Worktrees](https://www.youtube.com/watch?v=OGV-ZilSGcw)**
+
 ## Demos
 
 This repository contains two demonstrations of Ralphy's capabilities:
